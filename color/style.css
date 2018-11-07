@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+	background-color: black;
+}
+
+.color-block {
+	margin: 0;
+	padding: 0;
+	float: left;
+
+	width: 2vw;
+	min-width: 2vw;
+	max-width: 2vw;
+
+	height: 2vw;
+	min-height: 2vw;
+	max-height: 2vw;
+
+	border-radius: 0.5vw;
+}
+
